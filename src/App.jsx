@@ -1,11 +1,11 @@
 import React from 'react'
-import Header from './Header/header'
+import Navbar from './Header/navbar'
 
 function App() {
 
 
   return (
-    <Header />
+    <Navbar />
     
   )
 }
