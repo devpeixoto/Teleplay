@@ -6,9 +6,9 @@ const Navbar = () => {
             <h1 className="w-full text-3xl font-bold">TelePlay</h1>
             <ul className="flex cursor-pointer">
                 <li className="p-4">Inicio</li>
-                <li className="p-4">Inicio</li>
-                <li className="p-4">Inicio</li>
-                <li className="p-4">Inicio</li>
+                <li className="p-4">Produtos</li>
+                <li className="p-4">Empresa</li>
+                <li className="p-4">Descer</li>
             </ul>
         </div>
     )
