@@ -10,12 +10,21 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@material-tailwind/react": "^2.0.8",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-responsive-carousel": "^3.2.23",
     "react-slick": "^0.29.0",
     "slick-carousel": "^1.8.1"
+=======
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.14.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tw-elements": "^1.0.0-beta2"
+>>>>>>> cf99c79afc683b1d0d2a45182fa037a02cb16dea
   },
   "devDependencies": {
     "@types/react": "^18.2.14",
