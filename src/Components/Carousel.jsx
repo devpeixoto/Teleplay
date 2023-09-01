@@ -24,9 +24,9 @@ const Carousel = () =>{
 
     return(
         <div className=" flex w-full justify-center items-center p-1">
-            <Slider {...settings} className="w-2/3 bg-red-600" >
+            <Slider {...settings} className="w-2/3" >
                 {images.map((image, index) => (
-                    <div key={index} className="carousel-item" >
+                    <div key={index} className="carousel-item">
                         <img src={image} alt="FirstImg"/>
                     </div>
                 ))}
